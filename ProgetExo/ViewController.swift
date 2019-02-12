@@ -45,9 +45,7 @@ class ViewController: UIViewController,UITableViewDelegate, UITableViewDataSourc
             performSegue(withIdentifier: "seguetoDetail", sender: Any?.self)
       }
       
-      
-      
-      
+
       
       @IBAction func returnHome(segue:UIStoryboardSegue) {
             
